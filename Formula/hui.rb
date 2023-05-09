@@ -4,7 +4,7 @@ class Hui < Formula
     desc "Visual alternative to history written in Rust"
     homepage "https://github.com/jmwoliver/hui"
     url "https://github.com/jmwoliver/hui/releases/download/v0.1.1/hui-mac-aarch64-0.1.1.tar.gz"
-    sha256 "30e7df3f048ba3dcfdb104227f4b3ed1447d43b3551f5c2e8fced4d03863df24"
+    sha256 "ea69b76f491b74ac98e85e7ac7e9f3155b56655972ef74eb657aa36ac4a46ba9"
     version "0.1.1"
 
     def install
